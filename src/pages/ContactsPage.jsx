@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
+import schoolImg from '../assets/XXXL.webp';
 
 const ContactsPage = () => {
     const [submitted, setSubmitted] = useState(false);
