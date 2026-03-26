@@ -63,7 +63,7 @@ const HomePage = () => {
                             className="lg:col-span-5 relative"
                         >
                             <div className="aspect-[4/5] rounded-lg overflow-hidden grayscale hover:grayscale-0 transition-all duration-700 bg-surface-container shadow-2xl">
-                                <img alt="Академическая архитектура" className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-1000" src="src/assets/XXXL.webp" />
+                                <img alt="Академическая архитектура" className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-1000" src="https://r2.diverlin.ru/XXXL.webp" />
                             </div>
                             <motion.div
                                 initial={{ opacity: 0, y: 20 }}

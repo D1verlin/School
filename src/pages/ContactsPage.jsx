@@ -18,7 +18,7 @@ const ContactsPage = () => {
 
             <div className="absolute top-0 left-0 w-full h-[600px] z-0 overflow-hidden pointer-events-none">
                 <img
-                    src="src/assets/XXXL.webp"
+                    src="https://r2.diverlin.ru/XXXL.webp"
                     alt="school"
                     className="w-full h-full object-cover grayscale opacity-10"
                 />
