@@ -61,7 +61,7 @@ cd ..
 cd server
 npm run dev
 ```
-*Сервер запустится на [http://localhost:3000](http://localhost:3000)*
+*Сервер запустится на [http://localhost:3000](http://localhost:3001)*
 
 #### Запуск Фронтенда (UI)
 ```bash
